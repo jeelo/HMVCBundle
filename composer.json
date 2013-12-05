@@ -1,5 +1,5 @@
 {
-    "name": "jeelo/hmvc-bundle",
+    "name": "morket/hmvc-bundle",
     "type": "symfony-bundle",
     "description": "Symfony2 Bundle providing a fast Hierarchical Model View Controller (HMVC) solution utilizing Symfony's dispatch flow",
     "keywords": ["hmvc", "pac", "rad", "rest"],
